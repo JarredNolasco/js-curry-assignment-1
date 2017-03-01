@@ -6,7 +6,6 @@ const listing =
     price
   })
 
-
 const cart =
   (customer, ...items) => ({
     customer,
